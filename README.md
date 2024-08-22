@@ -1,1 +1,1 @@
-https://github.com/mayarasantanna2/googleflexbox.git
+ https://mayarasantanna2.github.io/googleflexbox/
